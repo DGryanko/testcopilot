@@ -1,0 +1,268 @@
+Uri: https://979987.mobirisesite.com/
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;700&display=swap&display=swap
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\s\intertight\v7\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\s\intertight\v7\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+Content Type: font/ttf
+
+Uri: https://r.mobirisesite.com/979987/assets/bootstrap/css/bootstrap-grid.min.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/bootstrap/css/bootstrap-reboot.min.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/bootstrap/css/bootstrap.min.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/bootstrap/js/bootstrap.bundle.min.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/css/mbr-additional.css?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/dropdown/css/style.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/dropdown/js/navbar-dropdown.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\dropdown\js\navbar-dropdown.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/embla/embla.min.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\embla\embla.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/embla/script.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\embla\script.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/formoid.min.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\formoid.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/images/background1.jpg?rnd=1733571529445
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\background1.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1433979933652-5e766d98ebb4.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1433979933652-5e766d98ebb4.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1450297166380-cabe503887e5.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1450297166380-cabe503887e5.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1459204195697-4de88edf3ab1.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1459204195697-4de88edf3ab1.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1466684921455-ee202d43c1aa.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1466684921455-ee202d43c1aa.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1474169482634-9d0381a70510.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1474169482634-9d0381a70510.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1475179593777-bd12fd56b85d.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1475179593777-bd12fd56b85d.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1476965805533-564543966f62.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1476965805533-564543966f62.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1484876632310-ddb3b48133cc.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1484876632310-ddb3b48133cc.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1492714485642-dd6df6baafa2.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1492714485642-dd6df6baafa2.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1499899833954-5ecd9439d17f.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1499899833954-5ecd9439d17f.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1502652023201-a16bde8138d2.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1502652023201-a16bde8138d2.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1502663228013-cccc7d39c172.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1502663228013-cccc7d39c172.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1503350659573-076be1027134.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1503350659573-076be1027134.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1505686183080-0020a5979305.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1505686183080-0020a5979305.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1506668699504-47315624c5e7.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1506668699504-47315624c5e7.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1507259933535-56d751a038ce.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1507259933535-56d751a038ce.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1510074229140-bdfc2ff28550.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1510074229140-bdfc2ff28550.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1511253819057-5408d4d70465.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1511253819057-5408d4d70465.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1514612497953-05d1e5e171fa.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1514612497953-05d1e5e171fa.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1515562141207-7a88fb7ce338.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1515562141207-7a88fb7ce338.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1524322465551-49be486e68f0.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1524322465551-49be486e68f0.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1531995811006-35cb42e1a022.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1531995811006-35cb42e1a022.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1532039956299-1614b86a6d2f.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1532039956299-1614b86a6d2f.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1542990254-85e6a9a2ef92.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1542990254-85e6a9a2ef92.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1543294001-f7cd5d7fb516.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1543294001-f7cd5d7fb516.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1543295204-2ae345412549.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1543295204-2ae345412549.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1603561596112-0a132b757442.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1603561596112-0a132b757442.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1608613381851-6a058de0dc11.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1608613381851-6a058de0dc11.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1608613517869-07b097abbcf3.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1608613517869-07b097abbcf3.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/images/photo-1624613673129-d5ffef60eba8.jpeg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\images\photo-1624613673129-d5ffef60eba8.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/979987/assets/mbr-switch-arrow/mbr-switch-arrow.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\mbr-switch-arrow\mbr-switch-arrow.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/mbr-tabs/mbr-tabs.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\mbr-tabs\mbr-tabs.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/parallax/jarallax.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\parallax\jarallax.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/parallax/jarallax.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\parallax\jarallax.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/recaptcha.css?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\recaptcha.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/smoothscroll/smooth-scroll.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\smoothscroll\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/css/styles.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\css\styles.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/fonts/socicon.eot
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/fonts/socicon.eot?
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/fonts/socicon.svg
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/fonts/socicon.ttf
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\fonts\socicon.ttf
+Content Type: font/ttf
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/fonts/socicon.woff
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\fonts\socicon.woff
+Content Type: font/woff
+
+Uri: https://r.mobirisesite.com/979987/assets/socicon/fonts/socicon.woff2
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\socicon\fonts\socicon.woff2
+Content Type: font/woff2
+
+Uri: https://r.mobirisesite.com/979987/assets/theme/css/style.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\theme\css\style.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/theme/js/script.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\theme\js\script.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/web/assets/jquery/jquery.min.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\web\assets\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/979987/assets/web/assets/mobirise-icons2/mobirise2.css?rnd=1733571529425
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\web\assets\mobirise-icons2\mobirise2.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/979987/assets/web/assets/mobirise-icons2/mobirise2.eot?f2bix4
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\web\assets\mobirise-icons2\mobirise2.eot
+Content Type: binary/octet-stream
+
+Uri: https://r.mobirisesite.com/979987/assets/web/assets/mobirise-icons2/mobirise2.svg?f2bix4
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\web\assets\mobirise-icons2\mobirise2.svg
+Content Type: image/svg+xml
+
+Uri: https://r.mobirisesite.com/979987/assets/web/assets/mobirise-icons2/mobirise2.ttf?f2bix4
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\web\assets\mobirise-icons2\mobirise2.ttf
+Content Type: binary/octet-stream
+
+Uri: https://r.mobirisesite.com/979987/assets/web/assets/mobirise-icons2/mobirise2.woff?f2bix4
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\web\assets\mobirise-icons2\mobirise2.woff
+Content Type: application/font-woff
+
+Uri: https://r.mobirisesite.com/979987/assets/ytplayer/index.js?rnd=1733571529426
+File Name: C:\Downloaded Web Sites\979987.mobirisesite.com\979987\assets\ytplayer\index.js
+Content Type: application/javascript
+
